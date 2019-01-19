@@ -9,7 +9,7 @@ The work is divided into three folders.
 ## Dictionary
 The dictionary contains Bengali lexicon that is transaled form English lexicon from VADER. It also contains our created lexicon. The extracted lexicon is created taking review of public using this [site](http://imran03.pythonanywhere.com/). Bengali booster dictionary, negation list and stop-words are also included.
 
-## Instruction of runnig tool
+## Instruction of runnig the tool
 To run the tool first download python3 from [Python website](https://www.python.org/). Then install [nltk](https://www.nltk.org/) and [numpy](http://www.numpy.org/).
 ```bash
 pip install nltk
